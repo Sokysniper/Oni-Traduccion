@@ -1,5 +1,5 @@
 # Oni-Traduccion
-Traducción al español del juego Oxigen not included
+Traducción al español del juego Oxygen not included
 
 Traducción al castellano en base a la creada por Idznak, DamaNegra y ditoseadio. 
 
